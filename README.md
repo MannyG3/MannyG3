@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MannyG3
-- 👀 I’m interested in data science
+- 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning java and Python
 - 💞️ I’m looking to collaborate on Game testing
 - 📫 How to reach me mayurgund3333@gmail.com
