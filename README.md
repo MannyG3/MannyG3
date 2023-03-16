@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MannyG3
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning java and Python
-- 💞️ I’m looking for an internship
-- 📫 How to reach me mayurgund3333@gmail.com
+- 👀 I’m interested in Fullstack Development.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for an Fulltime Job.
+- 📫 How to reach me mayurgund@yahoo.com
 
 <!---
 MannyG3/MannyG3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
