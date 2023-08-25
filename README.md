@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MannyG3
-- 👀 I’m interested in Fullstack Development.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning Full stack development.
 - 💞️ I’m looking for an Fulltime Job.
 - 📫 How to reach me mayurgund@yahoo.com
 
