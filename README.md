@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRxc2xjY3Q4cmI1MTY0ZHZ3NDVrbHE2YmJwNTM4em9hODVrNHV6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif)]
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2eXByOTBtc25rcDYwN2ZpeXl4cnY2NnBvdm1nZmZ5ZWFkenE5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)]
 
 <h1 align="center">Hi 👋, I'm Mayur Gund</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from India</h3>
