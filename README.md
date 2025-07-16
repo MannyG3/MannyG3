@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MannyG3" alt="MannyG3" /> </p>
 
-- 🔭 I’m currently working on [Zomato Clone]
+- 🔭 I’m currently working on 
 
 - 👨‍💻 All of my projects are available at [MannyG3](https://github.com/MannyG3)
 
