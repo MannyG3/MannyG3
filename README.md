@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZzdDZsbXl3NzNqd2lvdmVkNWN1YjB4cTFxOG1xdnN4NXQ0OTEzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="100%" />
+<!-- First (Top) GIF -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXEyZW1ncm0ya2Vuc3p0d2MzbW1wNGJ4dmV6b2JzaWM4azJ6NG00ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" />
 
 <br/>
 
