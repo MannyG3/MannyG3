@@ -10,7 +10,7 @@
 <h2>Mayur Gund</h2>
 
 <p>
-  <code>multidisciplinary full-stack developer</code>
+  <code> full-stack developer</code>
   &bull;
   <code>india</code>
 </p>
