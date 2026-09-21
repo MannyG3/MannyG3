@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<img src="https://ibb.co/fVwPcCnS" width="100%" />
 
 <h1><code>$ whoami</code></h1>
 
