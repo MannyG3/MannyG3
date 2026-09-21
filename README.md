@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+<img src="https://in.pinterest.com/pin/725149977493389933/" width="100%" />
 
 <h1><code>$ whoami</code></h1>
 
