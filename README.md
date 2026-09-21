@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1HH0y7Bcl33ZNukVcXDb2dqqhpPeoxG3c/view?usp=drive_link" width="100%" />
+<img src="https://ibb.co/fVwPcCnS" width="100%" />
 
 <h1><code>$ whoami</code></h1>
 
