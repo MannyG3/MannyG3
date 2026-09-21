@@ -1,8 +1,10 @@
 <!-- MR. ROBOT THEME / TERMINAL VIBE README -->
 
+<!-- MR. ROBOT THEME / TERMINAL VIBE README -->
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/MannyG3/MannyG3/main/assets/banner.png" width="100%" />
 
 <h1><code>$ whoami</code></h1>
 
@@ -19,23 +21,21 @@
 </p>
 
 <p>
+  <a href="https://github.com/MannyG3">
+    <img src="https://img.shields.io/badge/GitHub-MannyG3-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+  </a>
 
-<a href="https://github.com/MannyG3">
-<img src="https://img.shields.io/badge/GitHub-MannyG3-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/>
-</a>
+  <a href="https://www.linkedin.com/in/mayurgund99/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayur%20Gund-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/mayurgund99/">
-<img src="https://img.shields.io/badge/LinkedIn-Mayur%20Gund-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
-</a>
+  <a href="mailto:mayurgund@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-mayurgund@yahoo.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c"/>
+  </a>
 
-<a href="mailto:mayurgund@yahoo.com">
-<img src="https://img.shields.io/badge/Email-mayurgund@yahoo.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c"/>
-</a>
-
-<a href="https://buymeacoffee.com/mayurgund">
-<img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=00ff9c"/>
-</a>
-
+  <a href="https://buymeacoffee.com/mayurgund">
+    <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=00ff9c"/>
+  </a>
 </p>
 
 <p>
