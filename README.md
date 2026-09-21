@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MannyG3/MannyG3/main/assets/banner.png" width="100%" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
 
 <h1><code>$ whoami</code></h1>
 
