@@ -1,96 +1,96 @@
-<!-- MR. ROBOT THEME / TERMINAL VIBE README -->
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXEyZW1ncm0ya2Vuc3p0d2MzbW1wNGJ4dmV6b2JzaWM4azJ6NG00ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" />
+# Sanika Desai
 
-<h1><code>$ whoami</code></h1>
-<h2>Mayur Gund</h2>
-<p><code>multidisciplinary full-stack developer</code> &bull; <code>india</code></p>
+<img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Student-8E7DBE?style=flat-square" alt="AI & Data Science Student"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/sanikapdesai/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-F6A6C1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<p><img src="https://komarev.com/ghpvc/?username=MannyG3&label=PROFILE+VIEWS&color=00ff9c&style=flat" /></p>
+<br/><br/>
 
-<p>
-  <a href="https://github.com/MannyG3"><img src="https://img.shields.io/badge/GitHub-MannyG3-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/></a>
-  <a href="https://www.linkedin.com/in/mayurgund99/"><img src="https://img.shields.io/badge/LinkedIn-Mayur%20Gund-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/></a>
-  <a href="mailto:mayurgund@yahoo.com"><img src="https://img.shields.io/badge/Email-mayurgund@yahoo.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c"/></a>
-  <a href="https://buymeacoffee.com/mayurgund"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=00ff9c"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=8E7DBE&center=true&vCenter=true&width=560&lines=AI+%26+Data+Science+Student;Sharpening+DSA+one+problem+at+a+time;Exploring+Web+Development;Python+is+my+comfort+language" alt="Typing SVG"/>
 
 </div>
-
----
-
-## `// about`
-
-```bash
-┌─[mayur@fsociety]─[~]
-└──╼ $ cat profile.txt
-
-Name        : Mayur Gund
-Role        : Full-Stack Developer
-Focus       : Web Apps • APIs • Databases • ML
-Writing     : LinkedIn Articles
-Repo        : https://github.com/MannyG3
-Contact     : mayurgund@yahoo.com
-```
-
----
-
-## `// currently_obsessed_with`
-
-```bash
-┌─[mayur@fsociety]─[~]
-└──╼ $ cat now.txt
-
-[active]   Machine Learning — not as a buzzword, as a tool.
-           Finding where ML actually makes software more useful,
-           not just more impressive on a slide deck.
-
-[building] Things that blend classic full-stack intuition
-           with practical ML — not AI for AI's sake.
-```
-
----
-
-## `// stack`
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff9c)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff9c)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9c)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff9c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff9c)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff9c)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ff9c)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9c)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c)
-
-</div>
-
----
-
-## `// github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MannyG3&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=00ff9c" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MannyG3&theme=dark&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&border=00ff9c" />
+## About
+
+I'm an AI & Data Science student in my second year, spending most days between algorithms, half-finished web projects, and figuring out how machine learning actually works under the hood. I like building things that make a concept click, not just checking boxes on a syllabus.
+
+Currently focused on:
+
+- Getting comfortable with core Data Structures & Algorithms
+- Writing cleaner, more thoughtful Python
+- Understanding the fundamentals of AI and Machine Learning
+- Picking up Web Development on the side
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannyG3&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=00ff9c" />
+## Skills
+
+<div align="center">
+
+**Languages & DSA**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,java,cpp&theme=light" />
+
+<br/><br/>
+
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light" />
+
+<br/><br/>
+
+**AI / Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow&theme=light" />
+<br/>
+<sub>NumPy · Pandas · scikit-learn</sub>
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" />
 
 </div>
 
----
+<br/>
+
+## Projects
 
 <div align="center">
-<code>open to collaboration • mayurgund@yahoo.com</code>
+
+<table>
+<tr>
+<td align="center" width="100%">
+<i>New projects are on the way. Check back soon.</i>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikadesai-27&theme=radical&hide_border=true&background=1a1b27&ring=F6A6C1&fire=8E7DBE&currStreakLabel=F6A6C1" height="165"/>
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sanikapdesai/">
+  <img src="https://img.shields.io/badge/LinkedIn-8E7DBE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </div>
